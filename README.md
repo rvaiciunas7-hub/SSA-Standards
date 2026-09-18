@@ -1,40 +1,39 @@
-# Semantic Standards Authority — Standards Repository
+Semantic Standards Authority — Standards Repository
 
-This repository contains the formal specifications, governance models, and semantic execution standards developed by the **Semantic Standards Authority (SSA)**.  
-All documents follow the SSA institutional style: deterministic, drift‑free, auditable, and interoperable across implementations.
+This repository contains the formal specifications, governance models, and semantic execution standards developed by the Semantic Standards Authority (SSA).
+All documents follow the SSA institutional style: deterministic, drift-free, auditable, and interoperable across implementations.
 
-The standards in this repository define how governed meaning is encoded, validated, executed, evidenced, suspended, and authorized.
+Standards Included:
+- RA‑1 Formal Specification v1.1
+- Runtime Admissibility Evaluation Model v1.0
+- Suspension State Diagram v1.0
+- Conformance Profile (Draft)
+- Evidence Schema
+- Capability Issuance Model
+- Glossary (Working Draft)
 
----
+Repository Structure:
+/SSA-Standards/
+RA-1-Formal-Spec-v1.1.md
+Runtime-Admissibility-Model-v1.0.md
+Suspension-State-Diagram-v1.0.md
+Conformance-Profile-draft.md
+Evidence-Schema.md
+Capability-Issuance-Model.md
+Glossary.md
 
-## 📘 Standards Included
+Governance Principles:
+- Determinism
+- Drift-Free Semantics
+- Auditability
+- Interoperability
+- Authority
 
-### **RA‑1 Formal Specification v1.1**
-Core semantic-governance model.  
-Defines governed propositions, dependency structure, authoritative conditions, drift‑free requirements, and deterministic execution boundaries.
+Status:
+Active: RA‑1, Runtime Model, Suspension Diagram, Evidence Schema, Capability Model
+Draft: Conformance Profile, Glossary
 
-### **Runtime Admissibility Evaluation Model v1.0**
-Determines whether an action or transition is admissible.  
-Ensures deterministic, reproducible, evidence-backed runtime evaluation.
-
-### **Suspension State Diagram v1.0**
-Defines suspension triggers, invalid state conditions, re‑admissibility paths, and operational boundaries.
-
-### **Conformance Profile (Draft)**
-Outlines structural, deterministic, and full-governance conformance levels.  
-Ensures semantic fidelity and reproducibility across implementations.
-
-### **Evidence Schema**
-Defines evidence primitives, provenance structure, validation gates, completeness rules, and auditability requirements.
-
-### **Capability Issuance Model**
-Defines deterministic capability issuance, scope constraints, temporal/jurisdictional/audience bounds, lifecycle, and revocation conditions.
-
-### **Glossary (Working Draft)**
-Authoritative terminology used across all SSA standards.  
-Ensures semantic alignment and drift‑free communication.
-
----
-
-## 🧭 Repository Structure
+Contact:
+Semantic Standards Authority (SSA)
+Wolverhampton, United Kingdom
 
